@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    pedding:0;
+    box-sizing:border-box;
+
+}
+
+.header{
+   width:100%;
+   height:500px;
+   background-color:red;
+}
+
+.main-visual{
+    width:960px;
+   height:500px;
+   background-color:orange;
+}
+
+.main{
+    width:960px;
+   height:0 auto;
+   display: flex;
+   justfy-conte:center;
+}
+
+.sider-left{
+    width:230px;
+   height:1400px;
+   background-color:palegreen;
+}
+
+
+.blog{
+    width:500px;
+   height:1400px;
+   background-color:limegreen;
+}
+
+.sider-right{
+    width:500px;
+   height:1400px;
+   background-color:palegreen;
+}
+
+.footer{
+    width:100%;
+   height:100px;
+   background-color:blue;
+}
